@@ -20,7 +20,7 @@ import javax.servlet.http.HttpSession;
  */
 @WebServlet("/Employee_List")
 public class Employee_List extends HttpServlet {
-	private static final long serialVersionUID = 1L;
+	public static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
