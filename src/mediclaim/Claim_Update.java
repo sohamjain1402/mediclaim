@@ -23,7 +23,7 @@ public class Claim_Update extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Claim_Update() {
+    private Claim_Update() {
         super();
         // TODO Auto-generated constructor stub
     }
